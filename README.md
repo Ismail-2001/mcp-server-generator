@@ -1,4 +1,4 @@
-# 🚀 mcp-server-generator
+# Legacy REST for Humans. Optimized MCP for Intelligence.
 > **"One command. Any API. Instant MCP server."**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
